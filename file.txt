@@ -5,3 +5,4 @@ merge part 1
 merge part 2
 merge part 3
 rebase part 1
+rebase part 2
