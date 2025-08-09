@@ -3,3 +3,4 @@ part 2
 part 3
 merge part 1
 merge part 2
+merge part 3
