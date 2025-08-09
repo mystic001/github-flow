@@ -10,3 +10,4 @@ rebase part 3
 feature-part 1
 feature-part 2
 feature-part 3
+feature-part 2
